@@ -19,10 +19,10 @@ This repository contains an implementation of the **Nussinov algorithm** for RNA
    ```bash
    git clone https://github.com/your_username/nussinov-algorithm.git
 
-2. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook (Local or use Google Colab):
 
    ```
-   cd nussinov-algorithm
+   cd directory
    jupyter notebook Nussinov_Algorithm.ipynb
    ```
 
